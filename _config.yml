@@ -1,6 +1,6 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+title: Oteiza | Arquitectos
+description: "Arquitectura & Urbanismo"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://localhost:4000/
 logo_url: svg/min/logo.svg
@@ -8,8 +8,8 @@ logo_url: svg/min/logo.svg
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: Oteiza | Arquitectos
+    hero_description: Arquitectura & Urbanismo
 
 # Contact form
 api_token: # Enter API token here
